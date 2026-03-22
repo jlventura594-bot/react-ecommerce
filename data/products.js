@@ -2,7 +2,7 @@ const products = [
   {
     id: 1,
     name: "Lewis Hamilton Helmet 1:4 Model",
-    image: "http://localhost:5000/images/1.avif",
+    image: "https://react-ecommerce-qxa5.onrender.com/images/1.avif",
     price: 1200,
     oldPrice: 1500,
     rating: 4,
@@ -12,7 +12,7 @@ const products = [
   {
     id: 2,
     name: "Ferrari Cap",
-    image: "http://localhost:5000/images/2.avif",
+    image: "https://react-ecommerce-qxa5.onrender.com/images/2.avif",
     price: 900,
     oldPrice: 1100,
     rating: 5,
@@ -22,7 +22,7 @@ const products = [
   {
     id: 3,
     name: "F1 Podium Cap",
-    image: "http://localhost:5000/images/3.avif",
+    image: "https://react-ecommerce-qxa5.onrender.com/images/3.avif",
     price: 2500,
     oldPrice: 3000,
     rating: 3,
@@ -32,7 +32,7 @@ const products = [
   {
     id: 4,
     name: "Mclaren 2025 MCL39 Model",
-    image: "http://localhost:5000/images/4.avif",
+    image: "https://react-ecommerce-qxa5.onrender.com/images/4.avif",
     price: 1800,
     oldPrice: 2200,
     rating: 4,
@@ -42,7 +42,7 @@ const products = [
   {
     id: 5,
     name: "Adizero EVO SL - Audi F1 Edition",
-    image: "http://localhost:5000/images/5.avif",
+    image: "https://react-ecommerce-qxa5.onrender.com/images/5.avif",
     price: 1400,
     oldPrice: 1700,
     rating: 5,
@@ -52,7 +52,7 @@ const products = [
   {
     id: 6,
     name: "Redbull Cap",
-    image: "http://localhost:5000/images/6.avif",
+    image: "https://react-ecommerce-qxa5.onrender.com/images/6.avif",
     price: 900,
     oldPrice: 1100,
     rating: 5,
@@ -62,7 +62,7 @@ const products = [
    {
     id: 7,
     name: "Japan GP Hoodie",
-    image: "http://localhost:5000/images/7.avif",
+    image: "https://react-ecommerce-qxa5.onrender.com/images/7.avif",
     price: 2500,
     oldPrice: 5000,
     rating: 5,
@@ -72,7 +72,7 @@ const products = [
    {
     id: 8,
     name: "Michael Schumacher Helmet F2000 Poster",
-    image: "http://localhost:5000/images/8.avif",
+    image: "https://react-ecommerce-qxa5.onrender.com/images/8.avif",
     price: 900,
     oldPrice: 1100,
     rating: 4,
@@ -82,7 +82,7 @@ const products = [
    {
     id: 9,
     name: "Adidas Mercedes F1 Team Training Shoes",
-    image: "http://localhost:5000/images/9.avif",
+    image: "https://react-ecommerce-qxa5.onrender.com/images/9.avif",
     price: 1400,
     oldPrice: 1700,
     rating: 5,
@@ -92,7 +92,7 @@ const products = [
   {
     id: 10,
     name: "Ferrari Team Polo",
-    image: "http://localhost:5000/images/10.avif",
+    image: "https://react-ecommerce-qxa5.onrender.com/images/10.avif",
     price: 1500,
     oldPrice: 3000,
     rating: 5,
