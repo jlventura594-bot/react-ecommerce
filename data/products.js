@@ -69,9 +69,9 @@ const products = [
     discount: 50,
     category: "Apparel",
   },
-   {
+  {
     id: 8,
-    name: "Michael Schumacher Helmet F2000 Poster",
+    name: "Michael Schumacher F2000 Poster",
     image: "https://react-ecommerce-qxa5.onrender.com/images/8.avif",
     price: 900,
     oldPrice: 1100,
